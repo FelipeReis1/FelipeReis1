@@ -6,7 +6,7 @@
 - 🔭 I’m currently studying on <a href="https://www.driven.com.br/">Driven Education</a>  <!-- - 🌱 I’m currently learning React and Node js -->
 - 💬 Ask me about anything!
 - 📫 How to reach me: feliperg26@gmail.com
-- 😄 Pronouns: Him/His
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: Love gaming!
 
 ### You can also reach me on:
